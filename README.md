@@ -2,8 +2,8 @@
 
 <h2>Basicamente o projeto contém:</h2>
 
-* Um producer, que deve enviar os dados para um Broker (RabbitMQ).
-*  Um consumer, que deve ler esses dados e processá-los.
+* Um producer, que envia os dados para um Broker (RabbitMQ).
+*  Um consumer, que lê esses dados e processa os mesmos.
 
  ## Link do Vídeo
 
